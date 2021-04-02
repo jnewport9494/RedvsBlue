@@ -5,11 +5,17 @@ The activities here are meant to replicate a Red vs Blue engagement. As small gr
 
 
 This document contains the following:
+  
   **Network Topology**
+  
   **Network Reconnaissance**
+  
   **Vulnerability Assessment**
+  
   **Exploit summary**
+  
   **Incident Analysis**
+  
   **Mitigation Strategies**
   
   An overview of the Network Topology can be found here:
